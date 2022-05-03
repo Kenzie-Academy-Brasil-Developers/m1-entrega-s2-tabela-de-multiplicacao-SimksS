@@ -1,0 +1,8 @@
+n,tabuada[linha],linha,linha <=  n,coluna,coluna <= n
+5,"[0, 0, 0, 0, 0, 0]",0,true,0,true
+5,"[0, 1, 2, 3, 4, 5]",1,true,1,true
+5,"[0, 2, 4, 6, 8, 10]",2,true,2,true
+5,"[0, 3, 6, 9, 12, 15]",3,true,3,true
+5,"[0, 4, 8, 12, 16, 20]",4,true,4,true
+5,"[0, 5, 10, 15, 20, 25]",5,true,5,true
+5,-,6,false,-,-
